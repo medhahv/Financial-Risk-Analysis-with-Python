@@ -1,7 +1,7 @@
 Goldman Sachs, a major global banking institution. As digital transactions rise and customers diversify their account usage, the executive team wants to uncover
 patterns in customer financial behavior, account performance, and transaction risks to improve customer service and minimize financial risk.
 
-The goal and objective 
+The Goal and Objective 
 
 1. How do customers interact with different account types (e.g., savings, current, credit)?
 2. What are the trends in debit vs. credit transactions across segments?
